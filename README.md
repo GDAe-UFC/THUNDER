@@ -1,6 +1,6 @@
 ![Banana](https://1.bp.blogspot.com/-xJViBd1uwPw/WSL-r1NJe3I/AAAAAAAAys8/66SSVf5pODwxrR9I9VtD0h9bvTyczqJpACLcB/s1600/Logo%2Bdo%2BGrupo%2Bde%2BDesenvolvimento%2BAeroespacial%2Bda%2BUFC.png)
 
-# Grupo de Desenvolvimento Aeroespacial
+# Grupo de Desenvolvimento Aeroespacial - UFC
 
 <h4> Repositório padrão de arquivos do subsistema de Eletrônica e afins. </h4>  
 
